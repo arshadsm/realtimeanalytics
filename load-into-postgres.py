@@ -15,9 +15,9 @@ consumer.subscribe(['clickstream_events'])
 
 # PostgreSQL connection
 conn = psycopg2.connect(
-    dbname="postgres",  # Replace with your DB name
-    user="postgres",  # Replace with your username
-    password="postgres",  # Replace with your password
+    dbname="postgres",  
+    user="postgres",  
+    password="****",  
     host="localhost",
     port="5432"
 )
