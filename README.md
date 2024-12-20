@@ -17,4 +17,4 @@ This project focuses on real-time event analytics from streaming data. It uses K
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-event-analytics.git
+   git clone https://github.com/arshadsm/real-time-event-analytics.git
