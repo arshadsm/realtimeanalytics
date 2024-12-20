@@ -13,8 +13,3 @@ This project focuses on real-time event analytics from streaming data. It uses K
 - Power BI
 - Python (for Kafka integration)
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arshadsm/real-time-event-analytics.git
